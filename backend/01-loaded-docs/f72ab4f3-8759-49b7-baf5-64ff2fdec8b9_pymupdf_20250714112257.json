@@ -1,0 +1,21 @@
+{
+  "filename": "f72ab4f3-8759-49b7-baf5-64ff2fdec8b9.pdf",
+  "total_chunks": 1,
+  "total_pages": 1,
+  "loading_method": "pymupdf",
+  "loading_strategy": null,
+  "chunking_strategy": null,
+  "chunking_method": "loaded",
+  "timestamp": "2025-07-14T11:22:57.306837",
+  "chunks": [
+    {
+      "content": ".................. 拟  稿  纸 ..................\n江苏省高新技术创业服务中心\n编号\n标题\n关于同意各党支部换届选举结果的批复\n核稿\n苏高创党〔2024〕18号\n密级\n份数\n10\n主送\n各党支部\n抄送\n江苏省科学技术厅直属机关党委\n承办单位\n党办（人力资源部）\n拟稿人\n戴军晖\n办公室\n审  核\n分\n管\n领\n导\n审\n核\n签\n发\n 2024 年  09  月  11  日\n如\n文",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 41
+      }
+    }
+  ]
+}
